@@ -1,2 +1,2 @@
-de(7);
-    // root1->right->right->ir= new Node(7);
+root))
+    //     ans.push_back(root->data);
